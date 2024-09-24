@@ -47,7 +47,8 @@ O que você aprendeu construindo esse projeto?
 - Implementar pseudo-classes e pseudo-elementos (`::before`, `:hover`) para interações visuais.
 - Configurar validação visual de inputs com `:invalid`.
 - Usar `flexbox` para organizar inputs em colunas e gerenciar layouts responsivos.
-
+- Box-Sizing: A propriedade border-box é essencial para calcular o tamanho dos elementos considerando as bordas e o padding.
+- Acessibilidade e Contraste: Garantir que o contraste de cores esteja acessível para pessoas com baixa visão, e utilizar :hover para destacar elementos interativos.
 
 ## Screenshots
 
